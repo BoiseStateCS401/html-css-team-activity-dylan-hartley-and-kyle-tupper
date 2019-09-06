@@ -40,6 +40,12 @@ li, p {
 li {
     margin-bottom: 0.25em;
     text-decoration-line: none;
+    list-style: lower-roman;
+    
+}
+
+#sublist {
+    list-style: circle;
 }
 
 img {
@@ -60,4 +66,13 @@ pre {
 
 td, th {
     border: 1px dashed darkgray;
+    padding: 0.25em;
+}
+
+A {
+    text-decoration: none;
+}
+
+em {
+    color: red;
 }
