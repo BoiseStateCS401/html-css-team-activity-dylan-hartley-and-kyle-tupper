@@ -1,0 +1,64 @@
+<style>
+body {
+    background-color: #ecf0f1;
+    font-family: 'Verdana';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Consolas';
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 0.75em;
+}
+
+li, p {
+    color: brown;
+}
+
+li {
+    margin-bottom: 0.25em;
+    text-decoration-line: none;
+}
+
+img {
+    border-radius: 0.5em;
+}
+
+img:hover {
+    opacity: 0.5;
+    transition: opacity 250ms ease-in-out;
+}
+
+pre {
+    background-color: lightgray;
+    border: 2px solid black;
+    margin: 0.5em;
+    padding: 0.25em;
+}
+
+td, th {
+    border: 1px dashed darkgray;
+}
+</style>
